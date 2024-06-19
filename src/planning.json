@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "name": "Lundi",
+    "recipe": 0,
+    "result": {
+      "chef": "Bouchra - Nohaida",
+      "time": "2h15",
+      "joker": "Bilel",
+      "dessert": true
+    }
+  },
+  {
+    "id": 1,
+    "name": "Mardi",
+    "recipe": 7,
+    "result": null
+  },
+  {
+    "id": 2,
+    "name": "Mercredi",
+    "recipe": 3,
+    "result": null
+  },
+  {
+    "id": 3,
+    "name": "Jeudi",
+    "recipe": 8,
+    "result": null
+  },
+  {
+    "id": 4,
+    "name": "Vendredi",
+    "recipe": 6,
+    "result": null
+  }
+]

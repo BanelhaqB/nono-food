@@ -1,0 +1,19 @@
+[
+  {"id": 0, "name": "🍤 Riz crevettes", "numberOfChef": 1},
+  {"id": 1, "name": "🇲🇦 Tajine", "numberOfChef": 1},
+  {"id": 2, "name": "🥗 Salade + Pomme de terres sautées", "numberOfChef": 1},
+  {"id": 3, "name": "🇮🇹 Lasagne", "numberOfChef": 2},
+  {"id": 4, "name": "🥦 Gratin pomme de terres et brocolis", "numberOfChef": 1},
+  {"id": 5, "name": "🍝 Pâtes bolognaises", "numberOfChef": 1},
+  {"id": 6, "name": "🍛 Quiche + riz ratatouille", "numberOfChef": 1},
+  {"id": 7, "name": "🍝 Pâtes champignon et blanc de poulet", "numberOfChef": 1},
+  {"id": 8, "name": "🌮 Tacos + pomme de terres/salade", "numberOfChef": 1},
+  {"id": 9, "name": "🥗 Salade composée", "numberOfChef": 2},
+  {"id": 10, "name": "🍗 Poulet drive", "numberOfChef": 1},
+  {"id": 11, "name": "🍔 Burger frites", "numberOfChef": 2},
+  {"id": 12, "name": "🍝 Tagliatelle saumon", "numberOfChef": 1},
+  {"id": 13, "name": "🍖 BBQ", "numberOfChef": 3},
+  {"id": 14, "name": "🇪🇸 Tortilla p.81", "numberOfChef": 1},
+  {"id": 15, "name": "🥗 Salade César", "numberOfChef": 1},
+  {"id": 16, "name": "🐓 Poulet frit + frites/salade", "numberOfChef": 1}
+]
