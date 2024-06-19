@@ -12,7 +12,6 @@ const initialPlanning = require("./planning.json");
 function App() {
     const [showRecipe, setShowRecipe] = useState(false);
     const [showRules, setShowRules] = useState(false);
-
     const [mondayResult, setMondayResult] = useState(null);
     const [tuesday, setTuesday] = useState(null);
     const [wednesday, setWednesday] = useState(null);
