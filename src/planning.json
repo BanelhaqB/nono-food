@@ -2,13 +2,8 @@
   {
     "id": 0,
     "name": "Lundi",
-    "recipe": 0,
-    "result": {
-      "chef": "Bouchra - Nohaida",
-      "time": "2h15",
-      "joker": "Bilel",
-      "dessert": true
-    }
+    "recipe": 13,
+    "result": null
   },
   {
     "id": 1,
@@ -35,3 +30,4 @@
     "result": null
   }
 ]
+
